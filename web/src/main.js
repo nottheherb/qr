@@ -1,4 +1,4 @@
-import QRCode from 'qrcode';
+import QRCode from '../qrcode.js';
 
 const text = document.querySelector('#text');
 const image = document.querySelector('#qr');
